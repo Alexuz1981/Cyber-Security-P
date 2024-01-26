@@ -7,7 +7,7 @@
 
 <h2> Certifications </h2>
 
-
+https://imgur.com/rvL7mmO
 
 <h2> 🤳 Connect with me:</h2>
 
