@@ -24,7 +24,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/rvL7mmO" height="80%" width="80%" alt="Play it safe: Manage Security Risks"/>
 <br />
 <br />
 Select the disk:  <br/>
