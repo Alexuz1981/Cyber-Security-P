@@ -2,15 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
-
-
-<h2> Certifications </h2>
-<p align="center">
-Launch the utility: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Step](https://imgur.com/rvL7mmO)s"/>
-https://imgur.com/rvL7mmO
-
 <h1>JWipe - Disk Sanitization</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
