@@ -24,11 +24,11 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/rvL7mmO.png" height="80%" width="80%" alt="Play it safe: Manage Security Risks"/>
+<img src="https://imgur.com/rvL7mmO.png" height="70%" width="80%" alt="Play it safe: Manage Security Risks"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
