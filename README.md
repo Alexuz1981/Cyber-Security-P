@@ -24,7 +24,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/rvL7mmO.png" height="70%" width="50%" alt="Play it safe: Manage Security Risks"/>
+<img src="https://imgur.com/rvL7mmO.png" height="70%" width="70%" alt="Play it safe: Manage Security Risks"/>
 <br />
 <br />
 Select the disk:  <br/>
