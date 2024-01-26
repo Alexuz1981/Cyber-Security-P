@@ -6,7 +6,9 @@
 
 
 <h2> Certifications </h2>
-
+<p align="center">
+Launch the utility: <br/>
+<img src="[https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Step](https://imgur.com/rvL7mmO)s"/>
 https://imgur.com/rvL7mmO
 
 <h2> 🤳 Connect with me:</h2>
