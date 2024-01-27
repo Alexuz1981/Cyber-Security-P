@@ -1,6 +1,6 @@
 <h1>Hi!!!!!!👋 </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2> 🧠
 
 <h2>The following scenario describes how an Internal Security Audit is done:</h2>
 
