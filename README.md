@@ -24,7 +24,7 @@ The following section shows all the different certifications I have taken to gai
 
 <p align="center">
 Certifications: <br/>
-<img src="https://imgur.com/4bSrFta.png" height="80%" width="70%" alt="Foundations of Cybersecurity"/>
+<img src="https://imgur.com/4bSrFta.png" height="700%" width="70%" alt="Foundations of Cybersecurity"/>
 <br />
 <br />
 Select the disk:  <br/>
@@ -32,7 +32,7 @@ Select the disk:  <br/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://imgur.com/RlUFXjZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/RlUFXjZ.png" height="700%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
