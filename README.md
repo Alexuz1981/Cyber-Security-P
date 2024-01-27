@@ -38,7 +38,7 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 
 
-<h1>Google Courses Certifications</h1>
+<h1>Google Course Certification</h1>
 
 
 
