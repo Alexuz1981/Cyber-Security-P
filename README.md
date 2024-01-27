@@ -1,6 +1,11 @@
 <h1>Hi, Alex! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
+<h2>Description</h2>
+In the following scenario review and complete the activity
+<br />
+
 In part one of this activity, you will conduct an internal security audit, which you can include in your cybersecurity portfolio. To review the importance of building a professional portfolio and options for creating your portfolio, read Create a cybersecurity portfolio.
 As a reminder, audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
 Scenario
