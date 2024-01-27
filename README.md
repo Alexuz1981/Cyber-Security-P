@@ -28,7 +28,7 @@ Launch the utility: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/whTf6XW.png" height="80%" width="70%" alt="Foundations of Cybersecurity"/>
 <br />
 <br />
 Enter the number of passes: <br/>
