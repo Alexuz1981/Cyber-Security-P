@@ -23,7 +23,7 @@ The following section shows all the different certifications I have taken to gai
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Certifications: <br/>
 <img src="https://imgur.com/rvL7mmO.png" height="70%" width="70%" alt="Play it safe: Manage Security Risks"/>
 <br />
 <br />
