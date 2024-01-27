@@ -11,8 +11,9 @@ The IT department manager has decided that an internal IT audit needs to be cond
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
 
 
-<img src="https://imgur.com/yuQwYT7.png" height="700%" width="70%" alt=/>
-<img src="https://imgur.com/r6Dd5xX.png" height="700%" width="70%" alt=/>
+<img src="https://imgur.com/yuQwYT7.png" height="70%" width="70%" alt=/>
+
+<img src="https://imgur.com/r6Dd5xX.png" height="70%" width="70%" alt=/>
 
 
 
