@@ -32,11 +32,11 @@ Select the disk:  <br/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://imgur.com/RlUFXjZ.png" height="700%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/RlUFXjZ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://imgur.com/Qn0Typr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Qn0Typr.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
