@@ -28,7 +28,7 @@ Certifications: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://imgur.com/a/whTf6XW.png" height="80%" width="70%" alt="Foundations of Cybersecurity"/>
+<img src="https://imgur.com/4bSrFta.png" height="80%" width="70%" alt="Foundations of Cybersecurity"/>
 <br />
 <br />
 Enter the number of passes: <br/>
