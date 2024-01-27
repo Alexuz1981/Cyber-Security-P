@@ -12,8 +12,9 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 
 <img src="https://imgur.com/yuQwYT7.png" height="700%" width="70%" alt=/>
+<img src="https://imgur.com/r6Dd5xX.png" height="700%" width="70%" alt=/>
 
-https://imgur.com/yuQwYT7
+
 
 <h1>Google Courses Certifications</h1>
 
