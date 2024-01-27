@@ -4,10 +4,9 @@
 
 <h2>The following scenario describes how an Internal Security Audit is done:</h2>
 
-In part one of this activity, you will conduct an internal security audit, which you can include in your cybersecurity portfolio. To review the importance of building a professional portfolio and options for creating your portfolio, read Create a cybersecurity portfolio.
-As a reminder, audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
+Audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
 Scenario
-Review the following scenario. Then complete the step-by-step instructions.
+
 This scenario is based on a fictional company:
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as its main office, a storefront, and a warehouse for its products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
 The IT department manager has decided that an internal IT audit needs to be conducted. She expresses concerns about not having a solidified plan of action to ensure business continuity and compliance, as the business grows. She believes an internal audit can help better secure the company’s infrastructure and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets. The manager is also interested in ensuring that they comply with regulations related to internally processing and accepting online payments and conducting business in the European Union (E.U.).   
