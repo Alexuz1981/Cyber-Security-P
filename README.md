@@ -2,9 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<h2>Description</h2>
-In the following scenario review and complete the activity
-<br />
+<h2>In the following scenario, review and complete the activity</h2>
 
 In part one of this activity, you will conduct an internal security audit, which you can include in your cybersecurity portfolio. To review the importance of building a professional portfolio and options for creating your portfolio, read Create a cybersecurity portfolio.
 As a reminder, audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
@@ -16,7 +14,7 @@ The IT department manager has decided that an internal IT audit needs to be cond
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
 
 
-<h2>Conduct an Internal Security Audit</h2>
+
 
 <img src="https://imgur.com/yuQwYT7.png" height="70%" width="70%" alt=/>
 
