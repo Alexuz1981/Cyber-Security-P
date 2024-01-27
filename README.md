@@ -35,7 +35,7 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 
 
-https://imgur.com/F53y8dc
+
 <h1>Google Courses Certifications</h1>
 
 
@@ -44,17 +44,6 @@ https://imgur.com/F53y8dc
 The following section shows all the different certifications I have taken to gain experience in the field of Cybersecurity Analyst. 
 <br />
 
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
 
 <p align="center">
 Certifications: <br/>
