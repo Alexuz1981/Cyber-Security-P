@@ -11,7 +11,7 @@ Creating a unique and authentic professional statement helps establish people’
 
 
 
-<img src="https://imgur.com/yuQwYT7.png" height="70%" width="70%" alt=/>
+<img src="https://imgur.com/AOPjSio.png" height="70%" width="70%" alt=/>
 
 <img src="https://imgur.com/r6Dd5xX.png" height="70%" width="70%" alt=/>
 
