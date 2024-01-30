@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 ,💡Cybersecurity Projects:</h2> 
 
-<h2>The following scenario describes how an Internal Security Audit is done:</h2>
+<h2>The following is my professional statement:</h2>
 
 Audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
 Scenario
