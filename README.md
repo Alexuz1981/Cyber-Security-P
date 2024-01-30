@@ -13,27 +13,6 @@ Creating a unique and authentic professional statement helps establish people’
 
 <img src="https://imgur.com/AOPjSio.png" height="70%" width="70%" alt=/>
 
-<img src="https://imgur.com/r6Dd5xX.png" height="70%" width="70%" alt=/>
-
-<img src="https://imgur.com/EguAkvR.png" height="70%" width="70%" alt=/>
-
-<img src="https://imgur.com/jsxmDY4.png" height="70%" width="70%" alt=/>
-
-<img src="https://imgur.com/kH8xnRI.png" height="70%" width="70%" alt=/>
-
-<img src="https://imgur.com/2sFRtTI.png" height="70%" width="70%" alt=/>
-
-<img src="https://imgur.com/K9xjOlN.png" height="70%" width="70%" alt=/>
-
-<img src="https://imgur.com/Swy5wK0.png" height="70%" width="70%" alt=/>
-
-<img src="https://imgur.com/q6ShEXI.png" height="70%" width="70%" alt=/>
-
-<img src="https://imgur.com/F53y8dc.png" height="70%" width="70%" alt=/>
-
-
-
-
 <h1>Google Course Certification</h1>
 
 
