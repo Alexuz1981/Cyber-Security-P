@@ -27,18 +27,7 @@ Certifications: <br/>
 <img src="https://imgur.com/4bSrFta.png" height="700%" width="70%" alt="Foundations of Cybersecurity"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://imgur.com/rvL7mmO.png" height="70%" width="70%" alt="Play it safe: Manage Security Risks"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://imgur.com/RlUFXjZ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://imgur.com/Qn0Typr.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 
 
 <!--
