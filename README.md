@@ -11,8 +11,8 @@ Creating a unique and authentic professional statement helps establish people’
 
 
 
-<img src="https://imgur.com/AOPjSio.png" height="70%" width="70%" alt=/>
-
+<img src='https://imgur.com/jjv9CLx'.png" height="70%" width="70%" alt=/>
+https://imgur.com/jjv9CLx
 <h1>Google Course Certification</h1>
 
 
