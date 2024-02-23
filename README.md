@@ -6,15 +6,6 @@
 
 <h2>The following is my professional statement:</h2>
 
-As a dedicated professional committed to continuous growth and development, I strive to bring my evolving knowledge and skills to the table in every endeavor. With a passion for Sybersecurity, I am driven by a desire to contribute meaningfully to projects and teams, leveraging both traditional expertise and innovative thinking to drive results.
-
-My approach is founded on adaptability, curiosity, and a relentless pursuit of excellence. I thrive in dynamic environments where I can collaborate with diverse perspectives, constantly learning and evolving to meet emerging challenges and opportunities head-on.
-
-With a strong foundation in cybersecurity, I am eager to expand my horizons, embracing new technologies, methodologies, and best practices as they emerge. I am committed to staying ahead of the curve, proactively seeking out opportunities for professional development and growth to remain at the forefront of my field.
-
-I am excited about possibly joining a forward-thinking organization where I can contribute my skills and enthusiasm while continuing to refine and expand my professional capabilities. Together, let's create impact, drive innovation, and achieve success in the ever-evolving landscape of Cybersecurity.  
-
-
 
 <img src="https://imgur.com/jjv9CLx.png" height="70%" width="70%" alt=/>
 
